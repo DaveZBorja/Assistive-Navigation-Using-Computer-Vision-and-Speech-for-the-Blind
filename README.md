@@ -22,8 +22,7 @@ This project implements a real-time object detection and audio guidance system d
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/real-time-object-detection-audio-guidance.git
-   cd real-time-object-detection-audio-guidance
+   https://github.com/DaveZBorja/Assistive-Navigation-Using-Computer-Vision-and-Speech-for-the-Blind.git
    ```
 
 2. **Install the required Python packages:**
