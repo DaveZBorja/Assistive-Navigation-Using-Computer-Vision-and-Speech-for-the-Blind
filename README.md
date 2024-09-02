@@ -77,15 +77,3 @@ This project implements a real-time object detection and audio guidance system d
 
 Contributions are welcome! If you have suggestions for improving the system or want to add new features, feel free to fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- The pre-trained MobileNet SSD model was provided by the [OpenCV team](https://opencv.org/).
-- Special thanks to the contributors of the open-source libraries used in this project.
-
----
-
-Feel free to modify the `README.md` as needed to better suit your project!
